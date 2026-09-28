@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+
+# ML model files
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Large datasets
+*.csv
+*.xlsx
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
